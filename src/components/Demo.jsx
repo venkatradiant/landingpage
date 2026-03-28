@@ -125,7 +125,7 @@ export default function Demo() {
             <Sparkles size={18} color="#fff" />
           </div>
           <div>
-            <div style={{ fontSize: 15, fontWeight: 600, color: '#f5f5f7' }}>Nexus AI Assistant</div>
+            <div style={{ fontSize: 15, fontWeight: 600, color: '#f5f5f7' }}>Nexus Intelligence Assistant</div>
             <div style={{ fontSize: 12, color: '#30d158', display: 'flex', alignItems: 'center', gap: 4 }}>
               <span style={{
                 width: 6, height: 6, borderRadius: '50%', background: '#30d158',

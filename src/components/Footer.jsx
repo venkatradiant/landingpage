@@ -28,7 +28,7 @@ export default function Footer() {
             marginBottom: 16, letterSpacing: '-0.02em',
           }}>
             <Sparkles size={20} color="#2997ff" />
-            Nexus AI
+            Nexus Intelligence
           </a>
           <p style={{ fontSize: 14, color: '#6e6e73', lineHeight: 1.6, maxWidth: 240 }}>
             Building the next generation of artificial intelligence for everyone.
@@ -71,7 +71,7 @@ export default function Footer() {
         gap: 16,
       }}>
         <p style={{ fontSize: 13, color: '#6e6e73' }}>
-          © 2026 Nexus AI. All rights reserved.
+          © 2026 Nexus Intelligence. All rights reserved.
         </p>
         <div style={{ display: 'flex', gap: 24 }}>
           {['Twitter', 'GitHub', 'LinkedIn', 'Discord'].map(social => (

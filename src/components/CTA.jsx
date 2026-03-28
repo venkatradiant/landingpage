@@ -62,7 +62,7 @@ export default function CTA() {
             fontSize: 18, color: '#86868b', maxWidth: 480,
             margin: '0 auto 40px', lineHeight: 1.6,
           }}>
-            Join thousands of developers and teams already using Nexus AI to create extraordinary experiences.
+            Join thousands of developers and teams already using Nexus Intelligence to create extraordinary experiences.
           </p>
 
           <div style={{ display: 'flex', gap: 16, justifyContent: 'center', flexWrap: 'wrap' }}>

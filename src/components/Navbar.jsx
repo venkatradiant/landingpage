@@ -51,7 +51,7 @@ export default function Navbar() {
       }}>
         <a href="#" style={{ display: 'flex', alignItems: 'center', gap: 8, color: '#f5f5f7', fontWeight: 700, fontSize: 18, letterSpacing: '-0.02em' }}>
           <Sparkles size={22} color="#2997ff" />
-          Nexus AI
+          Nexus Intelligence
         </a>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: 32 }} className="nav-links-desktop">
