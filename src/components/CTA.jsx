@@ -56,7 +56,7 @@ export default function CTA() {
             lineHeight: 1.1,
             marginBottom: 20,
           }}>
-            Ready to build with<br />the future of AI?
+            Your ideas deserve<br />intelligence behind them.
           </h2>
           <p style={{
             fontSize: 18, color: '#86868b', maxWidth: 480,
